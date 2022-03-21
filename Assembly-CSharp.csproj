@@ -38,6 +38,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlayerScript.cs" />
      <Compile Include="Assets\Scripts\CameraScript.cs" />
+     <Compile Include="Assets\Scripts\EnemyScript.cs" />
+     <Compile Include="Assets\Scripts\CatController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity 2020.3.26f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
